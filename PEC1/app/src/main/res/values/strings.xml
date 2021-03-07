@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PEC1</string>
+    <string name="title_book_list">BookList</string>
+    <string name="title_book_detail">Book Detail</string>
 </resources>
